@@ -1,0 +1,15 @@
+// This file demonstrates a basic ZK Season Pass verification contract
+// SPDX-License-Identifier: Apache-2.0
+
+pragma language_version >= 0.20;
+
+import CompactStandardLibrary;
+
+// Public state
+export ledger attendance_count: Counter;
+
+// Transition function to record attendance (placeholder)
+export circuit attend_event(): [] {
+  // TODO: replace with real ZK verification using a verifier ledger entry
+  attendance_count.increment(1);
+}

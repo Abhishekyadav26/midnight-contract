@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "file": "index.js",
+  "sourceRoot": "../../../../",
+  "sources": ["wallet.compact"],
+  "names": [],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EAGA;;;;;;;;;;MAQA,AAAA,YAGC;;;;;;;;;;;;;;;;;;;;;;OAAA;;;GACA;EAZD;;;;;;;;;;;;;;;;;;;;;;;;;;IAKA;;;;;;;;;yEAAwC;;;;;;;GAOvC;EAJD,AAAA,eAGC;UADC,KAAgB;IAAhB;;;;;;;;;;6FAAA,KAAgB;;;;wEAAA;;GACjB;;;;;;;;;;;;;;;;IAND;qCAAA;;;;;;;;;;;0GAAwC;KAAA;;;;;;;;;;"
+}
